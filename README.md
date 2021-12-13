@@ -20,7 +20,7 @@ python3 0x-Nabil.py
 
 # My social media accounts
 
-instagram : j4s_8
+instagram : https://www.instagram.com/j4s_8
 
 Snapchat : https://www.snapchat.com/add/j4s_8
 
