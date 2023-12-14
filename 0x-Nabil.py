@@ -10,11 +10,11 @@ print('''
 ┊┊┊┃┃┃┃┊┊┊╭━━━
 ┊┊╭┛┗┛┗╮┊╭╯Welcome
 ┊┊┃┈▆┈▆┃┊┃To Download storys snapchat!
-┊┊┃┈┈▅┈┃┊╰┳━━━ Developer : @hyy_yy > kaito 
+┊┊┃┈┈▅┈┃┊╰┳━━━ Developer : @hyy_yy > 
 ┊┊┃┈╰┻╯┃━━╯┊┊┊ Support : @iictt | 24h
 --------
 ~ My Telegram > :https://t.me/ik48x
-~ By : kaito
+~ By : AbuTariq
 ''')
 class daddy_kaito():
 	def __init__(self):
